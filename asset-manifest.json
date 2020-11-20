@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/sigdash/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/sigdash/static/js/main.8067bd62.chunk.js",
+    "main.js.map": "/sigdash/static/js/main.8067bd62.chunk.js.map",
+    "runtime-main.js": "/sigdash/static/js/runtime-main.f3709df4.js",
+    "runtime-main.js.map": "/sigdash/static/js/runtime-main.f3709df4.js.map",
+    "static/css/2.ea9b1cc9.chunk.css": "/sigdash/static/css/2.ea9b1cc9.chunk.css",
+    "static/js/2.e7faefde.chunk.js": "/sigdash/static/js/2.e7faefde.chunk.js",
+    "static/js/2.e7faefde.chunk.js.map": "/sigdash/static/js/2.e7faefde.chunk.js.map",
+    "static/js/3.25adcb25.chunk.js": "/sigdash/static/js/3.25adcb25.chunk.js",
+    "static/js/3.25adcb25.chunk.js.map": "/sigdash/static/js/3.25adcb25.chunk.js.map",
+    "index.html": "/sigdash/index.html",
+    "static/css/2.ea9b1cc9.chunk.css.map": "/sigdash/static/css/2.ea9b1cc9.chunk.css.map",
+    "static/css/main.8c8b27cf.chunk.css.map": "/sigdash/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.e7faefde.chunk.js.LICENSE.txt": "/sigdash/static/js/2.e7faefde.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f3709df4.js",
+    "static/css/2.ea9b1cc9.chunk.css",
+    "static/js/2.e7faefde.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.8067bd62.chunk.js"
+  ]
+}
