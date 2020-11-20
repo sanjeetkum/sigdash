@@ -112,7 +112,7 @@ class Dashboard extends Component {
 				</Space>
 				<br></br>
 				<Spin spinning={this.state.loading} size="large"></Spin>
-				{this.state.datas ? <LineChart datas={this.state.datas} /> : 'No data for available for graph'}
+				{this.state.datas ? <LineChart datas={this.state.datas} /> : 'No data available for graph'}
 
 				<hr style={{ padding: '20px 0', backgroundColor: '#e0e0e0' }} />
 				{this.state.datas ? <DataTable datas={this.state.datas} /> : 'No data Available for table'}
